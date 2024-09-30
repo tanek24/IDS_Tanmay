@@ -12,9 +12,6 @@ This is a simple Intrusion Detection System (IDS) built with Python that capture
 - **Data Persistence**: Save the captured network data to a file for further analysis.
 - **GUI**: Easy-to-use interface to start and stop monitoring, display active services, and save data.
 
-## Screenshots
-
-_TODO: Add screenshots of the application._
 
 ## Requirements
 
